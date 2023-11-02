@@ -1,0 +1,20 @@
+a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+}
+li {
+    display:inline-block;
+}
+ul {
+    background-color: darkslategray;
+    text-align: center;
+}
+a:hover{
+    color:darkcyan;
+}
+
+
+
+

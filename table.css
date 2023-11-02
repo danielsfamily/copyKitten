@@ -1,0 +1,20 @@
+.cell {
+text-decoration:underline;
+color: blue
+padding: 3px;
+margin-left: 20px;
+border: 1px solid  black;
+}
+
+#cell-1 {
+border-top:none;
+border-left: none;
+
+}
+ #cell-2 {
+  border-top :none;
+ }
+
+ #cell-3
+
+
