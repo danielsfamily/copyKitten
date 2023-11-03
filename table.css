@@ -1,20 +1,30 @@
 .cell {
-text-decoration:underline;
-color: blue
-padding: 3px;
-margin-left: 20px;
-border: 1px solid  black;
+    text-decoration: underline;
+    color: blue;
+    padding: 6px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+div {
+    margin: 15px;
+}
+.row-1 {
+    border-top: none;
+}
+.column-1{
+    border-left: none;
+}
+.row-3{
+    border-bottom: none;
+}
+.column-3{
+    border-right: none;
 }
 
-#cell-1 {
-border-top:none;
-border-left: none;
 
-}
- #cell-2 {
-  border-top :none;
- }
 
- #cell-3
 
+
+11:42
+so crazy thats all it takes to do that much work
 
